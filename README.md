@@ -1,5 +1,3 @@
-# lcs-algo
-Longest common subsequence. Zero dependencies.
-```bash
-python3 lcs_algo.py --demo
-```
+# lcs_algo
+LCS — longest common subsequence and substring with reconstruction.
+Single-file Python, zero dependencies.
